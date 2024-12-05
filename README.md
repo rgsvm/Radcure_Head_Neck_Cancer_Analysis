@@ -1,6 +1,11 @@
 # Radcure_Head_Neck_Cancer_Analysis
 
 # Models : 
+1. LogisticRegression
+2. Lasso
+3. RandomForestClassifier
+4. SVM
+5. Naive Bayes
 
 The RADCURE dataset was collected clinically for radiation therapy treatment planning and retrospectively reconstructed for quantitative imaging research.
 
