@@ -7,6 +7,8 @@
 4. SVM
 5. Naive Bayes
 
+# DataSet Description:
+
 The RADCURE dataset was collected clinically for radiation therapy treatment planning and retrospectively reconstructed for quantitative imaging research.
 
 Inclusion: The dataset used for this study consists of 3,346 head and neck cancer CT image volumes collected from 2005-2017 treated with definitive RT at the University Health Network (UHN) in Toronto, Canada
